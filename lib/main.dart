@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Uno',
         theme: ThemeData(primaryColor: Colors.blue),
-        home: Inicial(),
+        home: TelaLogin(),
       ),
     );
   }

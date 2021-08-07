@@ -1,0 +1,1 @@
+const api_url = "projeto-uno-74755-default-rtdb.firebaseio.com";
